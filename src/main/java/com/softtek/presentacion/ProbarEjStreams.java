@@ -19,7 +19,7 @@ public class ProbarEjStreams {
             //EjStreams.promedioPreciosProductos(ap1);
             //EjStreams.obtenerCategoriaYCantidad(ap1);
             EjStreams.precioMax(ap1);
-            //EjStreams.findByEdad(ap1);
+            //EjStreams.findByEdad(ap2);
             //EjStreams.findCities(ap2);
 
         } catch (SQLException e){

@@ -110,6 +110,6 @@ public class EjStreams {
                    .distinct() // Eliminar duplicados
                    .forEach(System.out::println); // Imprimir cada ciudad
        }
-    }
+
  */
 }
